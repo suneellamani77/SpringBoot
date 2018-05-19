@@ -1,5 +1,5 @@
 <div class="container">	
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, explicabo dolores ipsam aliquam inventore corrupti eveniet quisquam quod totam laudantium repudiandae obcaecati ea consectetur debitis velit facere nisi expedita vel?</p>
+    
 
  <h1 class="my-4" style="color: green;">Add Permissions
       </h1>

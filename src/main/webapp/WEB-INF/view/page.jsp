@@ -1,10 +1,13 @@
 <div class="container">
 
       <!-- Introduction Row -->
-      <h1 class="my-4">About Us
+      <h1 class="my-4">
         <small>It's Nice to Meet You!</small>
       </h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, explicabo dolores ipsam aliquam inventore corrupti eveniet quisquam quod totam laudantium repudiandae obcaecati ea consectetur debitis velit facere nisi expedita vel?</p>
+      
+        <p>To Position the company as a leading technology provider and be among the top 500 Indian Tech Companies by 2020. 
+      To proactively grow and diversify into allied industries with new world efficiencies and create an asset base, 
+      thereby offering a stable environment to all the stakeholders.</p>
 
       <!-- Team Members Row -->
       <div class="row">
@@ -13,45 +16,39 @@
         </div>
         <div class="col-lg-4 col-sm-6 text-center mb-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="${img}/sj.PNG" alt="">
-          <h3>Suneel
-            <small>Job Title</small>
+          <h3>Suneel <br>
+            <small>Jr.Java Developer</small>
           </h3>
-          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center mb-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="${img}/bak.jpg" alt="">
-          <h3>Bhaskar
-            <small>Job Title</small>
+          <h3>Bhaskar<br>
+            <small>Sr.Java Developer</small>
           </h3>
-          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center mb-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="${img}/saga.png" alt="">
-          <h3>Sagar
-            <small>Job Title</small>
+          <h3>Sagar<br>
+            <small>Sr.Java Developer</small>
           </h3>
-          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center mb-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="${img}/linga.jpg" alt="">
-          <h3>Lingaraj
-            <small>Job Title</small>
+          <h3>Lingaraj<br>
+            <small>Jr.Java Developer</small>
           </h3>
-          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center mb-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="${img}/prem.jpg" alt="">
-          <h3>PremKumar
-            <small>Job Title</small>
+          <h3>PremKumar<br>
+            <small>Sr.Java Developer</small>
           </h3>
-          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center mb-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="${img}/arpan.jpg" alt="">
-          <h3>Arpan
-            <small>Job Title</small>
+          <h3>Arpan<br>
+            <small>Jr.Java Developer</small>
           </h3>
-          <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
       </div>
 

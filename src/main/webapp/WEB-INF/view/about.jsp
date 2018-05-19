@@ -1,7 +1,6 @@
 <div class="container">
 
-	<h1 class="my-4" style="color: green;">Crud Operation using Spring
-		Boot</h1>
+	<h1 class="my-4" style="color: green;">Add User</h1>
 	<hr style="border: 2px solid green" />
 	<form action="/saveUser" method="post">
 		<div class="row">
