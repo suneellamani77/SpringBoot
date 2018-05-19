@@ -1,0 +1,113 @@
+/*!
+ * Start Bootstrap - Round About (https://startbootstrap.com/template-overviews/round-about)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-round-about/blob/master/LICENSE)
+ */
+
+html{
+	height:100%;
+}
+
+
+body {
+	height:100%;
+  padding-top: 54px;
+}
+
+/* @media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+} */
+/* footer{
+	
+	margin: 0px;
+} */
+.wrapper{
+	min-height: 100%;
+	position: absolute;
+}
+
+.content{
+	padding-bottom: 60px;
+	}
+	
+.footer{
+	position: fixed;
+	height: 60px;
+	bottom:0px;
+	background: #343a40;
+	float:left;
+	min-width:100%;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+	}
+
+.about{
+	padding: 50px;
+}
+
+.label {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+ .label input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+} 
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.label input:checked ~ .checkmark:after {
+    display: block;
+}
+
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 25px;
+    width: 25px;
+    background-color: #ccc;
+}
+/* On mouse-over, add a grey background color */
+.label:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+.label input:checked ~ .checkmark {
+    background-color: green;
+}
+
+.label .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+table tbody tr{
+	text-align: center;
+}
